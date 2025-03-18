@@ -2,7 +2,7 @@
 # 🌟 PicturePerfect  
 ## 🚀 AI-Powered Image Upscaler & Enhancer  
 
-<img src="https://github.com/Md-Siam-Mia-Code/PicturePerfect/blob/main/assets/img/PicturePerfect.png" alt="PicturePerfect Logo" width="600"/>  
+<img src="https://github.com/Md-Siam-Mia-Code/PicturePerfect/blob/main/assets/img/PicturePerfect.png" alt="PicturePerfect Logo"/>  
 
 ---
 
