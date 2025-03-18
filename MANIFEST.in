@@ -1,0 +1,5 @@
+include scripts/*.py
+include main.py
+include VERSION
+include requirements.txt
+include gfpgan/weights/README.md
