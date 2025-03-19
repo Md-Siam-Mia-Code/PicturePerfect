@@ -92,7 +92,7 @@ python setup.py develop
 ### ▶️ Running the App  
 Start the server with:  
 ```bash
-uvicorn main:app --host 127.0.0.1 --port 3005
+uvicorn main:app --host 127.0.0.1 --port 3015
 ```  
 
 **Access the Web Interface:**  
@@ -104,7 +104,7 @@ Edit the run.bat Batch script on your PicturePerfect directory.
     @echo off
 
     :: Activate the conda environment for PicturePerfect
-    CALL "C:\ProgramData\<your anaconda distributation name>\Scripts\activate.bat" PicturePerfect
+    CALL "C:\ProgramData\<your anaconda distribution name>\Scripts\activate.bat" PicturePerfect
 
     :: Navigate to the PicturePerfect directory (Change path according to yours)
     cd /D path/to/your/PicturePerfect
@@ -116,9 +116,9 @@ Edit the run.bat Batch script on your PicturePerfect directory.
 1. **Upload Images:** Drag and drop or select `.jpg`, `.jpeg`, or `.png` files.  
 2. **Enhance:** Hit the "✨ Enhance" button and let the magic happen!  
 3. **View:** Check out the side-by-side comparison in the preview grid.  
-4. **Download:** Save your enhanced images one by one or as a ZIP file.  
+4. **Download:** Save your enhanced images individually or as a ZIP file.  
 5. **Clear:** Wipe out both input and output images in one click.  
-6. **Reload:** If anything acts up, just reload the backend.  
+6. **Reload:** If anything occurs, just reload the backend.  
 
 ---
 
