@@ -92,6 +92,9 @@ python setup.py develop
 ### ▶️ Running the App  
 Start the server with:  
 ```bash
+# Use
+python man.py
+# or use
 uvicorn main:app --host 127.0.0.1 --port 3015
 ```  
 
